@@ -1,0 +1,6 @@
+Summary
+Selected Python for the project with Tkinter as the GUI library.
+Used unittest for unit testing.
+Followed the PEP 8 style guide.
+Implemented unittest tests for GUI widget verification.
+Created a simple Tkinter GUI with text, a line, a checkbox, and radio buttons
